@@ -1,1 +1,3 @@
-
+#!/bin/bash
+touch hello.txt
+chmod 754 hello.txt
