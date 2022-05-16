@@ -1,4 +1,4 @@
 #!/bin/bash
-touch \"*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
 
-echo 'Hello DevOps'
+echo "Hello DevOps" > \"*\\'"DevOps"\'\\*$\?\*\*\*\*\*:).txt
+
