@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "Hello DevOps" > \"*\\'"DevOps"\'\\*$\?\*\*\*\*\*:).txt
+printf "Hello DevOps\n" ../>> "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
 
